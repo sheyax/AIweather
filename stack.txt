@@ -1,0 +1,9 @@
+React 
+Next.js 13.3
+GPT-4
+Stepzen-graphql
+Tremor-2.0 for UI   tremor.so
+Typescript 
+Tailwindcss 
+
+npx create-next-app@canary 
